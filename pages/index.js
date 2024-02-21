@@ -22,7 +22,7 @@ import ToTop from "../components/Sections/ToTop";
 const Index = () => (
 
     <Layout 
-        pageTitle="Naxos - React Next JS App Landing Page Template" 
+        pageTitle="ICrave" 
         colorSchema="/assets/colors/orange.css" 
     >
         <Loader />

@@ -71,7 +71,7 @@ const Overview = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 order-lg-first text-sm-center">
-						<img src="/images/overview/track-time.png" alt="" />
+						<img src="/images/banner/ic5.png" alt="" />
 					</Col>
 					
 				</Row>
@@ -124,7 +124,7 @@ const Overview = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 offset-lg-1 text-sm-center">
-						<img src="/images/overview/daily-schedule.png" alt="" />
+						<img src="/images/banner/ic4.png" alt="" />
 					</Col>
 					
 				</Row>

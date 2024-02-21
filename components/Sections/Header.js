@@ -29,7 +29,7 @@ const Header = (props) => {
                                 <div className="logo">
                                     
                                     <Link href="/" className="navbar-brand navbar-brand1">
-                                        <img src="/images/logo-white.png" srcSet={`/images/logo-white@2x.png 2x`} alt="Naxos" />
+                                        <img src="/images/logo.png" srcSet={`/images/logo-white@2x.png 2x`} alt="Naxos" />
                                     </Link>
 
                                     <Link href="/" className="navbar-brand navbar-brand2">
