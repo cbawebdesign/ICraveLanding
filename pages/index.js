@@ -28,20 +28,10 @@ const Index = () => (
         <Loader />
         <Header nav="home" />
         <SingleImage />
-        <Clients className="section-box bg-grey" />
         <Features />
-        <ParallaxVideo />
         <Services serviceClassName="service-single" />
         <Overview />
-        <Testimonials />
         <Counters />
-        <Team />
-        <Screenshots className="bg-grey" />
-        <Support />
-        <Subscribe />
-        <Blog />
-        <Pricing className="bg-grey" />
-        <Contact />
         <Footer />
         <ToTop />
     </Layout>

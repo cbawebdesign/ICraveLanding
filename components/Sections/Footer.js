@@ -28,7 +28,7 @@ export default class Footer extends Component {
 										<img src="/images/logo-white.png" alt="Naxos" data-rjs="2" />
 									</p>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.
+										
 									</p>
 									
 									{/* <!-- Social links --> */}
@@ -46,15 +46,7 @@ export default class Footer extends Component {
 							<Col className="col-12 col-md-6 col-lg-2 offset-lg-1 res-margin">
 								<div className="widget">
 									
-									<h6>Useful Links</h6>
 									
-									<ul className="footer-menu">
-										<li><a href="#">Support</a></li>
-										<li><a href="#">Privacy Policy</a></li>
-										<li><a href="#">Terms &amp; Conditions</a></li>
-										<li><a href="#">Affiliate Program</a></li>
-										<li><a href="#">Careers</a></li>
-									</ul>
 									
 								</div>
 							</Col>
@@ -63,15 +55,7 @@ export default class Footer extends Component {
 							<Col className="col-12 col-md-6 col-lg-3 res-margin">
 								<div className="widget">
 									
-									<h6>Product Help</h6>
-									
-									<ul className="footer-menu">
-										<li><a href="#">FAQ</a></li>
-										<li><a href="#">Reviews</a></li>
-										<li><a href="#">Features</a></li>
-										<li><a href="#">Feedback</a></li>
-										<li><a href="#">API</a></li>
-									</ul>
+								
 									
 								</div>
 							</Col>
@@ -104,7 +88,7 @@ export default class Footer extends Component {
 								
 								{/* <!-- Text --> */}
 								<p className="copyright text-center">
-									Copyright © 2023 <a href="#" target="_blank">Naxos</a>. All Rights Reserved.
+									Copyright © 2024 <a href="#" target="_blank">iCrave</a>. All Rights Reserved.
 								</p>
 								
 							</Col>

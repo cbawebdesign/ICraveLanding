@@ -38,8 +38,9 @@ const Features = (props) => {
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Bringing You Closer</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Ease and Convenience</h4>
+										<p>iCrave offers a seamless and hassle-free way to share homemade meals with loved ones, no matter the distance.
+</p>
 									</div>
 									
 								</div>
@@ -56,8 +57,9 @@ const Features = (props) => {
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Preserving Memories</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Prepare Your Package</h4>
+										<p>With iCrave, preparing and packaging your homemade dishes is simple and straightforward, ensuring they arrive fresh and delicious.
+</p>
 									</div>
 									
 								</div>
@@ -74,8 +76,9 @@ const Features = (props) => {
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Join the Foodie Community</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Add a Personal Touch</h4>
+										<p>Customize your iCrave packages with heartfelt messages, cherished photos, and personalized touches to make every delivery special.
+</p>
 									</div>
 									
 								</div>
@@ -107,8 +110,9 @@ const Features = (props) => {
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Ease and Convenience</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Bringing You Closer</h4>
+										<p> iCrave bridges the gap between loved ones by bringing the warmth and flavor of homemade meals right to their doorstep, fostering meaningful connections.
+</p>
 									</div>
 									
 								</div>
@@ -125,8 +129,8 @@ const Features = (props) => {
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Prepare Your Package</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Preserving Memories</h4>
+										<p>Every iCrave delivery becomes a cherished memory, capturing the essence of home and the love shared between family and friends.</p>
 									</div>
 									
 								</div>
@@ -143,8 +147,9 @@ const Features = (props) => {
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Add a Personal Touch</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Join the Foodie Community</h4>
+										<p>Dive into a vibrant community of food enthusiasts, culinary explorers, and passionate home cooks on the iCrave platform, where you can exchange recipes, ideas, and the pure joy of food.
+</p>
 									</div>
 									
 								</div>

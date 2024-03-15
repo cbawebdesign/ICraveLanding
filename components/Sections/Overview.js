@@ -16,8 +16,8 @@ const Overview = (props) => {
 							
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
-							<h3>Track Time From Anywhere</h3>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </p>
+							<h3>Select Your Packaging Preferences</h3>
+							<p> Select Your Packaging Preferences: We've simplified the process to make it easy for you to choose. Pick from a range of shipping boxes and food containers, available in different sizes to suit your needs. With iCrave, packaging your homemade delights has never been easier </p>
 						</div>
 
 						{/* <!-- Items --> */}
@@ -31,8 +31,8 @@ const Overview = (props) => {
 
 								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Easy to Use</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Choose Your Shipping Boxes</h6>
+									<p>Select the ideal-sized shipping box to accommodate your iCrave package</p>
 								</div>
 
 							</div>
@@ -45,8 +45,8 @@ const Overview = (props) => {
 
 								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Monitor &amp; Manage</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Pick Your Food Containers</h6>
+									<p>Explore our range of food containers, available in various sizes to suit your dish portions</p>
 								</div>
 
 							</div>
@@ -59,8 +59,8 @@ const Overview = (props) => {
 
 								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Stay Connected</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Customize Your Order</h6>
+									<p>Tailor your packaging preferences to fit your specific needs and ensure your iCrave package arrives safely and securely</p>
 								</div>
 
 							</div>
@@ -86,31 +86,35 @@ const Overview = (props) => {
 							
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
-							<h3>Built For Your Daily Schedule</h3>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </p>
+							<h3>My Bitez</h3>
+							<p>My Bitez / Connect, share, and indulge in a world of culinary delights with My Bitez. </p>
 						</div>
 
 						{/* <!-- List --> */}
 						<ul className="overview-list">
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Ut fringilla est at nunc suscipit dictum. Nulla facilisi. Phasellus dignissim nibh eget imperdiet venenatis.</p>
+								<p><i className="fa-li fas fa-check"></i> Connect with Loved Ones: Seamlessly link with family and friends who send or receive iCrave packages. Your connections are just a tap away.</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Nullam egestas tincidunt lectus, sagittis eros vestibulum in. Vestibulum finibus iaculis sagittis. Suspendisse viverra luctus.</p>
+								<p><i className="fa-li fas fa-check"></i> Share the Joy: Capture the essence of your iCrave experience by sharing photos, stories, and the sheer delight of enjoying a cherished meal.
+</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Suspendisse at volutpat magna, vitae mattis metus. Integer posuere eu erat at pharetra. Aliquam ut pharetra diam.</p>
+								<p><i className="fa-li fas fa-check"></i> Create and Discover: Explore a treasure trove of recipes, culinary secrets, and food experiences shared by our vibrant iCrave community.
+</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Donec luctus, sem vel molestie efficitur, metus libero mollis neque, sed scelerisque arcu nisl eu lectus.</p>
+								<p><i className="fa-li fas fa-check"></i> Stay Connected: Keep the conversation going through our integrated chat feature. Share messages, thoughts, and smiles, no matter the distance.
+</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Fusce neque magna, fringilla ac vulputate at, venenatis a eros. Donec accumsan commodo tortor sed fringilla.</p>
+								<p><i className="fa-li fas fa-check"></i> Join the Foodie Community: Dive into a world of culinary enthusiasts, fellow food lovers, and passionate home cooks. Exchange ideas, recipes, and the pure joy of food.
+</p>
 							</li>
 
 						</ul>
@@ -124,7 +128,7 @@ const Overview = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 offset-lg-1 text-sm-center">
-						<img src="/images/banner/ic4.png" alt="" />
+						<img src="/images/banner/ic4.jpg" alt="" />
 					</Col>
 					
 				</Row>
